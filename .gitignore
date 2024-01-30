@@ -15,3 +15,5 @@
 .history
 # 针对Mac系统的忽略
 .DS_Store
+.obsidian/app.json
+.obsidian/plugins/table-editor-obsidian/data.json
